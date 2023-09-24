@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233851334240",
+    "project_id": "e-commerce-task-feb49",
+    "storage_bucket": "e-commerce-task-feb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233851334240:android:4eab9d26d8beb5bac8dd05",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_task_philobater_samir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDddwdqTFdijqRwvayT5ZaYEBmlF8BrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
